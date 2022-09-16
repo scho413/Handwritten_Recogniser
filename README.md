@@ -1,6 +1,8 @@
 Handwritten Digit Recognizer
 ==============================
 
+This is a handwritten digit recognizer where I designed and developed the image training part (scho413) and my partner has developed the GUI (hhaa289)
+
 Our project uses pyqt5 GUI to perform deep neural network on the MNIST database. The user will be able visualise the process of downloading and training the MNIST datasets. 
 
 Once the process is finished, user will be able to view trained images.
